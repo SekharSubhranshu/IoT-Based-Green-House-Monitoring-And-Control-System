@@ -13,10 +13,10 @@ DHT dht(DHTPIN, DHTTYPE);
 
 WiFiClient client;
 
-const char* ssid = "Mrutyunjaya";
-const char* password = "mrutyunjaya@15";
-const char* apiKey = "QBNCAMP34V9MDNMH";
-const unsigned long channelId =2447500;
+const char* ssid = "xxxxxxxxx";
+const char* password = "xxxxxxxxxx";
+const char* apiKey = "xxxxxxxxx";
+const unsigned long channelId =xxxx;
 
 void setup() {
   Serial.begin(9600);
